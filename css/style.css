@@ -1,5 +1,5 @@
 body {
-  font-style: Arial, Verdana;
+  font-family: Arial, Verdana;
   color: #FFFFFF;
   background-color: #000000;
   margin: 20px 20px 0 20px;
@@ -82,7 +82,7 @@ div {
 }
 
 .green {
-  background-color: #00D800;
+  background-color: #008500;
   text-align: left;
   margin-right: 50px;
   border-top: solid 2px;
